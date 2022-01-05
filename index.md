@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Gurvir
 
 You can use the [editor on GitHub](https://github.com/UP2016988/GurvirDhillon-WebSite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
