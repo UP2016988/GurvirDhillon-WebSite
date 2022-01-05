@@ -1,4 +1,4 @@
-## Gurvir
+## Gurvir Dhillon
 
 ## Summary:
 *	Software engineer with experience in JavaScript, Git/GitHub, HTML, CSS, PSQL and C looking to broaden my experience in enterprise development.
